@@ -2,7 +2,8 @@
 
 A crescente evolução dos equipamentos e métodos de coleta, armazenamento, processamento e representação da informação geoespacial exige constantes pesquisas para melhor aproveitar esses recursos. Essa constatação aliada à criação do Curso de Engenharia Cartográfica e de Agrimensura no IFG – Campus Goiânia, estimulou um grupo de professores da área de Geomática a criarem o Grupo de Estudo em Geomática (GEO).
 
-You can use the [editor on GitHub](https://github.com/edipocremon/geo_ifg/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+O GEO agrega professores, alunos e técnicos administrativos para pesquisarem, compartilharem experiências e se inteirarem acerca de assuntos da área de geociências com enfoque nas ciências cartográficas, agrimensura e geoprocessamento, além de demais áreas correlatas. É desejado criar um ambiente fecundo para pesquisas, onde se possa vincular projetos e pleitear recursos para investimentos em equipamentos e softwares, que auxiliem no desenvolvimento de pesquisas com viés científico e tecnológico.
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
