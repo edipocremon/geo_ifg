@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## O que é o GEO?
+
+A crescente evolução dos equipamentos e métodos de coleta, armazenamento, processamento e representação da informação geoespacial exige constantes pesquisas para melhor aproveitar esses recursos. Essa constatação aliada à criação do Curso de Engenharia Cartográfica e de Agrimensura no IFG – Campus Goiânia, estimulou um grupo de professores da área de Geomática a criarem o Grupo de Estudo em Geomática (GEO).
 
 You can use the [editor on GitHub](https://github.com/edipocremon/geo_ifg/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
